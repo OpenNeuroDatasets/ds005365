@@ -1,14 +1,20 @@
 {
     "Acknowledgements": "",
     "Authors": [
+        "Amy Kartar",
+        "Toru Horinouchi",
+        "Balázs Örzsik",
+        "Brittany Anderson",
+        "Lottie Hall",
+        "Duncan Bailey",
+        "Sarah Samuel",
+        "Nati Beltran",
+        "Samira Bouyagoub",
         "Chris Racey",
-        "Charlotte Rae",
-        "Ivor Simpson",
-        "Oscar Bowen-Hill",
-        "Mathilde Bauer",
-        "Julia Simner",
-        "Christina Kampoureli",
-        "Jamie Ward"
+        "Yoko Nagai",
+        "Iris Asllani",
+        "Hugo Critchley",
+        "Alessandro Colasanti"
     ],
     "BIDSVersion": "1.4.1",
     "DatasetDOI": "doi:10.18112/openneuro.ds004466.v1.0.2",
